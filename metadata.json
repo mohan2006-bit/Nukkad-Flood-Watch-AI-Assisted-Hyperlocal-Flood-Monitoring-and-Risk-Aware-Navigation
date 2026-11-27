@@ -1,0 +1,6 @@
+{
+  "name": "Nukkad Flood Watch",
+  "description": "Hyperlocal citizen flood monitoring, street-level risk indicators, trust-scored crowd reporting, automated alerts, and safe-route navigation for Chennai neighborhoods.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
